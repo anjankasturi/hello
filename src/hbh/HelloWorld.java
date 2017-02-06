@@ -10,7 +10,8 @@ public class HelloWorld extends Hi {
 		System.out.println("Hello You are in main function");
 		HelloWorld h=new HelloWorld();
 		h.out();
-		System.out.println("Added this");
+		System.out.println("Added thi
+kjyis now");
 	}
 
 }
